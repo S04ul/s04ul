@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s04ul&label=Profile%20views&color=0e75b6&style=flat" alt="s04ul" /> </p>
 
+- 🇫🇷 I'm from France !
+
 - 🔭 I’m currently working on **personnal projects**
 
 - 🌱 I’m currently learning **Machine Learning**
