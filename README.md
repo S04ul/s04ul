@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soul Tech</h1>
+<h1 align="center">Hi 👋, I'm Soul   </h1>
 <h3 align="center">A developper in C++/Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s04ul&label=Profile%20views&color=0e75b6&style=flat" alt="s04ul" /> </p>
@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- ⚡ Fun fact **- I drink coffee since i am 5 y.o. 
+- ⚡ Fun fact
+- **- I drink coffee since i am 5 y.o. 
 - The first language that i learned was HTML but i am too bad at CSS so i stopped Frontend.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
