@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- ⚡ Fun fact
+- ⚡ Fun facts :
 - **I drink coffee since i am 5 y.o.**
 - **The first language that i learned was HTML but i am too bad at CSS so i stopped Frontend.**
 
