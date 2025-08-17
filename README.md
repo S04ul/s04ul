@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Soul   </h1>
-<h3 align="center">A developper in C++/Python</h3>
+<h3 align="center">A developper in C++/Python based in France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s04ul&label=Profile%20views&color=0e75b6&style=flat" alt="s04ul" /> </p>
-
-- 🇫🇷 I'm from France !
 
 - 🔭 I’m currently working on **personnal projects**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - ⚡ Fun facts :
-- **I drink coffee since i am 5 y.o.**
-- **The first language that i learned was HTML but i am too bad at CSS so i stopped Frontend.**
+  - **I drink coffee since i am 5 y.o.**
+  - **The first language that i learned was     HTML but i am too bad at CSS so i stopped   Frontend.**
 
 <p align="left">
 </p>
